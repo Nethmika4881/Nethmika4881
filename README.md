@@ -2,4 +2,4 @@
 
 ## 📊 GitHub Stats
 
-![Metrics](https://raw.githubusercontent.com/Nethmika4881/Nethmika4881/main/github-metrics.svg)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nethmika4881&theme=github_dark)
